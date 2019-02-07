@@ -11,7 +11,7 @@ phases:
      - echo "pre_build step"
  post_build:
    commands:
-     - echo "post_build step
+     - echo "post_build step"
 artifacts:
   files:
     - '**/*'
