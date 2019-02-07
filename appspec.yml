@@ -1,5 +1,5 @@
-version: 0.0
-os: linux
+version: 18.04
+os: ubuntu
 files:
   - source: /index.html
     destination: /var/www/html/
